@@ -1,0 +1,4 @@
+heartpy==1.2.6
+pandas==0.24.2
+matplotlib==2.2.3
+numpy==1.16.2
